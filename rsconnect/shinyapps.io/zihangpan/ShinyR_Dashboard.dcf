@@ -1,0 +1,13 @@
+name: ShinyR_Dashboard
+title: ShinyR_Dashboard
+username:
+account: zihangpan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3709904
+bundleId: 4281142
+url: https://zihangpan.shinyapps.io/ShinyR_Dashboard/
+when: 1614502771.80699
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md

@@ -1,0 +1,13 @@
+name: Mentor_Matching_Engine
+title: Mentor_Matching_Engine
+username:
+account: zihangpan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3709911
+bundleId: 4281154
+url: https://zihangpan.shinyapps.io/Mentor_Matching_Engine/
+when: 1614503020.78899
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
